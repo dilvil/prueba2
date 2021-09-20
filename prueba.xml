@@ -2,4 +2,6 @@
 	<nombre>Dilan</nombre>
 	<varon></varon>
 	<edad>23</edad>
-	</persona>
+	<ciudad>Castellon</ciudad>
+	<genero>masculino<genero/>
+</persona>
